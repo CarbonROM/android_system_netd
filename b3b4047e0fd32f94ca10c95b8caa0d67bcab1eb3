@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher DF6371FD 1556930214 -0300\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_system_netd.git\nnonce 1556930214-1C009342732E93783B8B19B77AA9041FE1E71888\n\n0000000000000000000000000000000000000000 b3b4047e0fd32f94ca10c95b8caa0d67bcab1eb3 refs/for/cr-7.0\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEtIra/48LQyVKBN0XaH/CI99jcf0FAlzM3qYACgkQaH/CI99j\ncf3RPgf+Oi0P0hbyrnAnKCB6BJbVwAeyjqwORoJ1yZJ0KKoledhiGWLPymy0hs/2\neRtbf8zolJENNSaV6I0/cVBsTv3M+zJpzngwvVAwtGDEDFb/Sxcq9ULybuZ4bqnD\n7cItxGodNnLX4pgnyto8XN0B7k0umhXqweuOQpg2o/C3Fv0V4+8x3585olu18GPD\nHjCCc6qh4sObIzk819SFTDB8UCig5JRJ2o6bN80FX8HaMTD40LkNQx4scgsV+LaN\nxupPTNzjpLOn+x9Jy+3Cf4EZCGPldXIsKOuDQPhs79YrBIHtf7EAm7igb35XHs06\nSY7RiKxMqrcFblpM40KVofoZ0fEndg\u003d\u003d\n\u003dKhL5\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
